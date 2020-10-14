@@ -1,0 +1,36 @@
+/*Inicio*/
+
+.inicio {
+    background-image: url(../img/living1.jpg) ;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.btn-outline-secondary--inicio{
+    width: 350px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.modal-backdrop{
+    position: relative;
+}
+
+.btn-modal{
+    width: 100px;
+}
+
+.fondo__dif{
+    background-image: url(../img/livingDif.jpg) ;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.logo__social{
+    width: 2.4rem;
+    align-self: center;
+}
